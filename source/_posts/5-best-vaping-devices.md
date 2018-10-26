@@ -45,6 +45,8 @@ One of the great features is that there are no buttons on the device because it 
 
 The best part is the latest technology that this device is using. The DOT Vape Kit features the new [FEELM](http://www.feelmtech.com/) technology. This [new vaping technology](http://www.feelmtech.com/), which has won the Golden Leaf Award in the Most Exciting Newcomer of the Industry Category, features a special ceramic cube with an integrated flat metal film, ensuring instant vapor production and true flavor. The FEELM technology is able to completely vaporizes every drop of E-liquid, resulting in richer vapor and smoother throat hit and providing a satisfying vape.
 
+<!-- more -->
+
 Instead of using nicotine traditionally found in E-liquids, the pods contain nicotine salt, which creates a smoother vape for the higher strength of e-liquid in DOT. These Pods come in 20mg/ml strength and has 4 flavors: menthol, tobacco, strawberry, and berry.
 
 ![](/images/113.jpg)
