@@ -3,10 +3,7 @@ title: 5 Best Vapor Devices 2018
 date: 2018-10-26 10:45:00
 category: The Best Vape Review
 ---
-
-![](/images/112.jpg)
-
-With so many vapes on the market, you should check these 5 babies out first
+# With so many vapes on the market, you should check these 5 babies out first
 
 Pod vapes are pocket-friendly, easy to use and cheaper than traditional cigarettes, so many smokers are looking for pod vapes with which they can relax whenever and wherever they want. But with so many different products and brands available on the market, finding the best vape that is suitable for you can be difficult. 
 
