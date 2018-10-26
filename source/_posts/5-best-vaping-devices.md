@@ -3,7 +3,9 @@ title: 5 Best Vapor Devices 2018
 date: 2018-10-26 10:45:00
 category: The Best Vape Review
 ---
+
 ![](/images/112.jpg)
+
 # With so many vapes on the market, you should check these 5 babies out first
 
 
