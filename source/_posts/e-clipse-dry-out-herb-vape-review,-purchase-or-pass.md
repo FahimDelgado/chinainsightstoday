@@ -1,7 +1,7 @@
 ---
 title: E-Clipse Dry out Herb Vape Review, Purchase or Pass
 date: 2018-8-23 09:25:00
-category: Dry Herbs
+category: dry herbs
 ---
 
 ![](/images/5.jpg)
