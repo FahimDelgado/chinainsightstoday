@@ -1,14 +1,14 @@
 ---
 title: 5 Best Vapor Devices 2018
 date: 2018-10-26 10:45:00
-category: The Best Vape Review
+category: the best vape review
 ---
+
 # With so many vapes on the market, you should check these 5 babies out first
 
 Pod vapes are pocket-friendly, easy to use and cheaper than traditional cigarettes, so many smokers are looking for pod vapes with which they can relax whenever and wherever they want. But with so many different products and brands available on the market, finding the best vape that is suitable for you can be difficult. 
 
-If you are one of the smokers who are on the hunt for a device that can offer a top-notch smoking satisfaction, here is a list of the 5 best pod vapes of 2018
-
+If you are one of the smokers who are on the hunt for a device that can offer a top-notch smoking satisfaction, here is a list of the 5 best pod vapes of 2018.
 
 ##### Juul Starter Kit
 
@@ -20,8 +20,9 @@ In terms of battery, The Juul Starter Kit takes only 45-60 minutes to fully char
 
 In addition, the Juul Starter Kit uses temperature control, which avoids producing smoke that is too hot for your mouth. And with the company’s patented JuulSalts approach to nicotine delivery, it is able to provide a nicotine hit that’s really similar to smoking a cigarette.
 
+<center>
 ![](/images/111.jpg)
-
+</center>
 
 ##### MyBlu Starter Kit
 
@@ -31,7 +32,9 @@ It comes with a user manual, a micro USB charger, a 350 mAh battery that charges
 
 When it comes to flavors, the new MyBlu has been improved over the old version. These new pods use a new e-liquid solution to make the throat hit more substantial. The airflow is tight and restricted, which allows a mouth to lung satisfaction like a real traditional cigarette. In addition, its 1-click liquid pods let you switch flavors just in seconds.
 
+<center>
 ![](/images/112.jpg)
+  </center>
 
 
 ##### DOT Vape Kit
@@ -46,8 +49,9 @@ The best part is the latest technology that this device is using. The DOT Vape K
 
 Instead of using nicotine traditionally found in E-liquids, the pods contain nicotine salt, which creates a smoother vape for the higher strength of e-liquid in DOT. These Pods come in 20mg/ml strength and has 4 flavors: menthol, tobacco, strawberry, and berry.
 
+<center>
 ![](/images/113.jpg)
-
+</center>
 
 ##### V2 Pro Series 3X Vaporizer Starter Kit
 
@@ -57,8 +61,9 @@ It literally has 27 different ways for you to vape. It comes with a refillable c
 
 The V2 Pro Series 3X offers cartridges compatible with high VG and high PG e-liquid, delivering a smooth, clean flavor profile with custom options like sub-ohm vaping and adjustable airflow.
 
+<center>
 ![](/images/114.jpg)
-
+</center>
 
 ##### VUSE Alto Kit
 
@@ -68,4 +73,6 @@ The mouthpiece is well designed to offer a comfortable, smooth and quiet draw. I
 
 Not only are the battery and the pods bigger, but also there is something about them that allows long-lasting hits. With some other vaping devices, you vape a few times and you are not getting as much as vapor. But you can vape your VUSE Alto one vape after another and the hit is not getting dry. In addition, the VUSE Alto really has a decent cloud compared to other devices on the market.
 
+<center>
 ![](/images/115.jpg)
+  </center>
