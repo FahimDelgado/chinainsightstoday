@@ -1,7 +1,7 @@
 ---
 title: Best Organic and natural CBD Vape Essential oil and E-Juice 2018
 date: 2018-7-30 10:45:00
-category: The Best Vape Review
+category: the best vape review
 ---
 
 ![](/images/2.jpg)
