@@ -1,7 +1,7 @@
 ---
 title: Typhon by Hydra Charging Circumstance for Juul
 date: 2018-8-24 11:00:00
-category: Vape Accessories
+category: vape accessories
 ---
 
 ![](/images/3.jpg)
