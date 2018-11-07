@@ -1,7 +1,7 @@
 ---
 title: What’s in Your Vape Stash?
 date: 2018-9-15 13:10:00
-category: Entertainment
+category: entertainment
 ---
 
 ![](/images/7.jpg)
