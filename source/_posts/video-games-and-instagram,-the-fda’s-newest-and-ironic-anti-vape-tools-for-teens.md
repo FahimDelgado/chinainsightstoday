@@ -1,7 +1,7 @@
 ---
 title: Video Games and Instagram, The FDA's Newest and Ironic Anti-Vape Tools for Teens
 date: 2018-9-25 08:55:00
-category: Legal And Political News
+category: legal and political news
 ---
 
 ![](/images/8.jpg)
