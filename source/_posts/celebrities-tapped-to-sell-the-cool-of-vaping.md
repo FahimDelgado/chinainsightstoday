@@ -1,7 +1,7 @@
 ---
 title: Celebrities Tapped to Sell The Cool of Vaping
 date: 2018-9-20 13:10:00
-category: Entertainment
+category: entertainment
 ---
 
 ![](/images/6.jpg)
