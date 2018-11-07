@@ -1,7 +1,7 @@
 ---
 title: Davinci Miqro and IQ Analysis Pure Awesomeness
 date: 2018-8-11 13:15:00
-category: Dry Herbs
+category: dry herbs
 ---
 
 ![](/images/4.jpg)
