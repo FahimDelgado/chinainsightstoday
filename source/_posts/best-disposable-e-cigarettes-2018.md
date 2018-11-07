@@ -1,7 +1,7 @@
 ---
 title: Best Disposable E-Cigarettes 2018
 date: 2018-8-12 08:15:00
-category: The Best Vape Reviews
+category: the best vape reviews
 ---
 
 ![](/images/1.jpg)
